@@ -196,6 +196,17 @@
       subjects:
       - PHRM2101
       - PHR4101
+  los:
+      - Describe pathophysiology of type 2 diabetes
+      - Identify diagnostic criteria for type 2 diabetes based on Australian guidelines
+      - Interpret blood glucose and HbA1c results to assess glycaemic control  
+      - Identify treatment goals 
+      - Evaluate pharmacotherapeutic management of type 2 diabetes
+      -   Identify MOA, adverse effects and outcome evidence for antihyperglycaemics (metformin, GLP-1 analogues, SGLT2 inhbitors, DPP4 inhibitors, sulfonylureas, tirzapetide, insulin) 
+      - Identify patient-specific factors to guide pharmacotherapeutic choice
+      - Evaluate non-pharmacotherapuetic management strategies for patients with type 2 Diabetes
+    
+
     
     - name: Hypothyroidism
       subjects:
