@@ -215,50 +215,62 @@
 			- PHRM3101
 
 - system: Endocrine conditions
-	tiers:
-	
-	- tier: 1
-		conditions:
-		
-		- name: Diabetes, type 2 (including prediabetes)
-			subjects:
-			- PHRM2101
-			- PHR4101
-		
-		- name: Hypothyroidism
-			subjects:
-			- PHRM2101
-	
-	- tier: 2
-		conditions:
-		
-		- name: Adrenal gland disorders
-			subjects:
-			- PHRM2101
-		
-		- name: Diabetes, type 1 (including latent autoimmune diabetes)
-			subjects:
-			- PHRM2101
-		
-		- name: Gender-affirming therapy
-		
-		- name: Hyperglycemic crises
-			subjects:
-			- PHRM2101
-		
-		- name: Hyperthyroidism
-			subjects:
-			- PHRM2101
-		
-		- name: Male hypogonadism
-	
-	- tier: 3
-		conditions:
-		
-		- name: Diabetes secondary e.g., monogenic diabetes syndromes, cystic fibrosis,
-				pancreatitis, organ transplantation)
-		
-		- name: Pituitary gland disorders
+
+  tiers:
+  
+  - tier: 1
+    conditions:
+    
+    - name: Diabetes, type 2 (including prediabetes)
+      subjects:
+      - PHRM2101
+      - PHR4101
+  los:
+      - Describe pathophysiology of type 2 diabetes
+      - Identify diagnostic criteria for type 2 diabetes based on Australian guidelines
+      - Interpret blood glucose and HbA1c results to assess glycaemic control  
+      - Identify treatment goals 
+      - Evaluate pharmacotherapeutic management of type 2 diabetes
+      -   Identify MOA, adverse effects and outcome evidence for antihyperglycaemics (metformin, GLP-1 analogues, SGLT2 inhbitors, DPP4 inhibitors, sulfonylureas, tirzapetide, insulin) 
+      - Identify patient-specific factors to guide pharmacotherapeutic choice
+      - Evaluate non-pharmacotherapuetic management strategies for patients with type 2 Diabetes
+    
+
+    
+    - name: Hypothyroidism
+      subjects:
+      - PHRM2101
+  
+  - tier: 2
+    conditions:
+    
+    - name: Adrenal gland disorders
+      subjects:
+      - PHRM2101
+    
+    - name: Diabetes, type 1 (including latent autoimmune diabetes)
+      subjects:
+      - PHRM2101
+    
+    - name: Gender-affirming therapy
+    
+    - name: Hyperglycemic crises
+      subjects:
+      - PHRM2101
+    
+    - name: Hyperthyroidism
+      subjects:
+      - PHRM2101
+    
+    - name: Male hypogonadism
+  
+  - tier: 3
+    conditions:
+    
+    - name: Diabetes secondary e.g., monogenic diabetes syndromes, cystic fibrosis,
+        pancreatitis, organ transplantation)
+    
+    - name: Pituitary gland disorders
 
 - system: GI conditions
 	tiers:

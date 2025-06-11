@@ -1,0 +1,1420 @@
+LOs for PHRm3102 
+# Therapeutics Curriculum 
+# 8 May 2025
+
+# The aim of this sheet is to map subjects and condition-specific learning objectives against the American College of Clinical Pharmacy Pharmacotherapy Didactic Curriculum 2023
+
+- system: Cardiovascular conditions
+	 tiers:
+	 
+	 - tier: 1 conditions:
+	 	 
+	 	 - name: Arrhythmias, atrial
+	 	 	 subjects:
+	 	 	 - PHRM2102
+Identify the signs, symptoms, and types of arrhythmias, including atrial fibrillation.
+Describe the underlying causes and risk factors for atrial fibrillation and other arrhythmias.
+Explain the pharmacological and non-pharmacological treatment options for arrhythmias.
+Understand the role of anticoagulation in atrial fibrillation and stroke prevention.
+Interpret ECG findings relevant to common arrhythmias.
+Discuss the pharmacist?s role in monitoring therapy and educating patients with arrhythmias.
+Recognize potential drug interactions and adverse effects associated with antiarrhythmic medications.
+	 	 	 - PHRM3102 
+	 	 As above ? as well as: 
+Evaluate patient-specific factors (e.g., age, renal function, comorbidities, adherence) that influence therapeutic decision-making in management of arrhythmias
+	 	 - name: Chronic coronary disease (formerly stable ischemic heart disease)
+	 	 	 subjects:
+	 	 	 - PHRM2102
+	 	 	 los:
+	 	 	 - Evaluate pharmacotherapeutic management of secondary prevention following ACS
+	 	 	 - Identify MOA, adverse effects and outcome evidence for statins, ACEI/ARB, betablockers, [more?]
+	 	 	 - Evaluate cardiac risk
+
+	 	 - name: Dyslipidemia
+	 	 	 subjects:
+	 	 	 - PHRM2102
+	 	 	 - PHRM4101
+	 	 	 los:
+	 	 	 - Describe treatment goals
+	 	 	 - Evaluate cardiac risks including interpreting lab test
+	 	 	 - Idenitfy MOA, adverse effect and outcome evidence for statins, ezitemide
+
+	 	 - name: Heart failure, chronic (why is acute separate?) I have written goals as one but James we can separate out if you like.
+	 	 	 subjects:
+	 	 	 - PHRM2102
+	 	 	 	 	 Describe the pathophysiology and classification of heart failure, including distinctions between HFrEF, HFmrEF, and HFpEF.
+	 	 	 	 	 Identify common signs and symptoms of heart failure and explain their clinical significance in diagnosis and monitoring.
+	 	 	 	 	 Explain the pharmacological and non-pharmacological therapeutic goals in the management of heart failure, including:
+	 	 	 	 	 Reducing morbidity and mortality, Improving quality of life and functional status, inimizing hospitalisations and disease progression
+	 	 	 	 	 Demonstrate knowledge of guideline-directed medical therapy for heart failure, including the four pillars of medication management:
+	 	 	 	 	 	 	 ACE inhibitors/ARBs/ARNIs
+	 	 	 	 	 	 	 Beta-blockers
+	 	 	 	 	 	 	 Mineralocorticoid receptor antagonists (MRAs)
+	 	 	 	 	 	 	 SGLT2 inhibitors
+
+	 	 	 - PHRM4101
+	 	 	 - PHRM3102
+	 	 	 	 	 	 Describe the pathophysiology and classification of heart failure, including distinctions between HFrEF, HFmrEF, and HFpEF.
+	 	 	 	 	 	 In addition to above (PHRM2102)
+	 	 	 	 	 	 	 	 Evaluate patient-specific factors (e.g., renal function, comorbidities, adherence) that influence therapeutic decision-making in heart failure.
+	 	 	 	 	 	 	 	Apply evidence-based guidelines to develop and adjust individualized pharmacotherapy plans for patients with heart failure.
+	 	 
+	 	 - name: Hypertension
+	 	 	 subjects:
+	 	 	 - PHRM2102
+	 	 	 	 Explain the pathophysiology and classification of hypertension, including primary and secondary hypertension, and the significance of systolic vs. diastolic blood pressure.
+	 	 	 	 Interpret blood pressure readings using current diagnostic thresholds (e.g., Ú130/80 mmHg per ACC/AHA guidelines) and understand the implications for cardiovascular risk.
+Describe the therapeutic goals of hypertension management, including:
+Reducing the risk of cardiovascular events (e.g., stroke, myocardial infarction)
+Preventing or slowing progression of target organ damage (e.g., kidney, heart, brain)
+Achieving and maintaining individualized blood pressure targets
+Identify first-line and adjunctive pharmacological therapies for hypertension, including:
+ACE inhibitors, ARBs, calcium channel blockers, thiazide diuretics
+Beta-blockers, aldosterone antagonists, and other agents for specific indications
+
+	 	 	 
+	 	 	 - PHRM4101
+	 	 	 
+	 	 	 - PHRM3102
+	 	 	 	 	 Apply evidence-based guidelines (e.g., ACC/AHA, ISH, Australian guidelines) to develop individualized treatment plans for patients with hypertension. 
+	 	 	 	 	 Evaluate patient-specific factors (e.g., age,frailty, comorbidities, ethnicity, lifestyle) that influence antihypertensive therapy selection and monitoring.
+	 	 	 	 	 Demonstrate understanding of non-pharmacological interventions, such as dietary modifications, physical activity, weight loss, and sodium restriction.
+	 	 	 	 	 Monitor therapeutic outcomes and adverse effects, and adjust therapy accordingly to optimize blood pressure control and minimize harm.
+	 	 	 	 Recognize the pharmacist?s role in hypertension screening, patient education, medication adherence, and interprofessional care.
+	 	 
+	 	 - name: Venous thromboembolism, prevention, and treatment
+	 	 	 subjects:
+	 	 	 - PHRM2102
+	 	 	 	 Describe the pathophysiology and risk factors for venous thromboembolism, including deep vein thrombosis (DVT) and pulmonary embolism (PE).
+Classify VTE based on clinical presentation and risk stratification, including provoked vs. unprovoked events and transient vs. persistent risk factors.
+Explain the therapeutic goals in VTE management, including:
+Preventing thrombus extension and embolization
+Reducing recurrence risk
+Minimizing bleeding complications
+Improving patient outcomes and quality of life
+Identify pharmacological agents used in VTE prevention and treatment, including:
+Unfractionated heparin (UFH)
+Low-molecular-weight heparins (LMWHs)
+Direct oral anticoagulants (DOACs)
+Vitamin K antagonists (e.g., warfarin)
+	 	 	 
+	 	 	 - PHRM3102
+Apply evidence-based guidelines to develop individualized VTE prevention and treatment plans for:
+Hospitalized medical and surgical patients
+Patients with cancer-associated thrombosis ---> Teir 3?
+Patients with renal impairment or obesity ---> this is not Teir one or two - probs more 3 
+Evaluate the appropriate duration of anticoagulation therapy based on patient-specific factors and VTE classification (e.g., 3 months vs. extended therapy).
+Recognize the pharmacist?s role in:
+VTE risk assessment and prophylaxis planning
+Patient education on anticoagulant use and adherence
+Monitoring for efficacy and adverse effects
+Managing perioperative anticoagulation and bridging strategies
+Interpret laboratory and clinical data to assess anticoagulant therapy effectiveness and safety, including INR, aPTT, anti-Xa levels, and signs of bleeding or recurrence. Teir 3?
+
+	 
+	 - tier: 2
+	 	 conditions:
+	 	 
+	 	 - name: Acute coronary syndromes
+	 	 	 subjects:
+	 	 	 - PHRM2102
+	 	 	 - PHRM4101
+	 	 	 - ''
+	 	 
+	 	 - name: Advanced cardiac life support
+	 	 	 subjects:
+	 	 	 - PHRM3102
+	 	 
+	 	 - name: Arrhythmias, ventricular
+	 	 	 subjects:
+	 	 	 - PHRM2102
+	 	 	 - PHRM3102
+	 	 
+	 	 - name: Heart failure, acute decompensated
+	 	 	 subjects:
+	 	 	 - PHRM2102
+	 	 	 - PHRM3102
+	 	 
+	 	 - name: Hypertensive crises
+	 	 
+	 	 - name: Peripheral artery disease
+	 	 
+	 	 - name: Stroke (ischemic, hemorrhagic, and transient ischemic attack)
+	 	 	 subjects:
+	 	 	 - PHRM2102
+	 	 
+	 	 - name: Valvular heart disease
+	 
+	 - tier: 3
+	 	 conditions:
+	 	 
+	 	 - name: Pericarditis
+	 	 
+	 	 - name: Pulmonary hypertension
+
+- system: Dermatologic conditions
+	 tiers:
+	 
+	 - tier: 1
+	 	 conditions:
+	 	 
+	 	 - name: Acne vulgaris
+	 	 	 subjects:
+	 	 	 - PHRM2102
+	 	 	 - PHRM4101
+	 	 
+	 	 - name: Dermatitis
+	 	 	 subjects:
+	 	 	 - PHRM2102
+	 	 	 - PHRM4101
+	 	 
+	 	 - name: Wounds, minor (e.g., lacerations, punctures, bites, incisions, abrasions,
+	 	 	 	 and avulsions)
+	 	 	 subjects:
+	 	 	 - PHRM2102
+	 
+	 - tier: 2
+	 	 conditions:
+	 	 
+	 	 - name: Alopecia
+	 	 
+	 	 - name: Burn injuries, minor (e.g., sunburn, self-treated burns)
+	 	 	 subjects:
+	 	 	 - PHRM2102
+	 	 
+	 	 - name: Insect bites and stings, prevention and treatment
+	 	 	 subjects:
+	 	 	 - PHRM2102
+	 	 
+	 	 - name: Psoriasis
+	 	 	 subjects:
+	 	 	 - PHRM2102
+	 	 	 - PHRM4101
+	 	 
+	 	 - name: Sun-induced skin disorders, prevention
+	 	 	 subjects:
+	 	 	 - PHRM2102
+	 	 
+	 	 - name: Warts, calluses, and corns
+	 	 	 subjects:
+	 	 	 - PHRM2102
+	 	 
+	 	 - name: Xerosis (dry skin)
+	 	 	 subjects:
+	 	 	 - PHRM2102
+	 
+	 - tier: 3
+	 	 conditions:
+	 	 
+	 	 - name: Stevens-Johnson syndrome, toxic epidermal necrolysis
+	 	 
+	 	 - name: Wounds, major (e.g., pressure ulcers)
+	 	 	 subjects:
+	 	 	 - PHRM2102
+
+- system: Ear, nose, mouth, and throat conditions
+	 tiers:
+	 
+	 - tier: 1
+	 	 conditions:
+	 	 
+	 	 - name: Allergic rhinitis
+	 	 	 subjects:
+	 	 	 - PHRM3101
+	 	 	 - PHRM1102
+	 	 
+	 	 - name: Common cold
+	 	 	 subjects:
+	 	 	 - PHRM3101
+	 	 	 - PHRM1102
+	 	 
+	 	 - name: Cough
+	 	 	 subjects:
+	 	 	 - PHRM3101
+	 	 	 - PHRM1102
+	 	 
+	 	 - name: Oral lesions (e.g., cold sores, aphthous ulcers)
+	 	 	 subjects:
+	 	 	 - PHRM3101
+	 	 
+	 	 - name: Otitis externa (e.g., swimmer's ear)
+	 	 	 subjects:
+	 	 	 - PHRM3101
+	 
+	 - tier: 2
+	 	 conditions:
+	 	 
+	 	 - name: Cerumen impaction
+	 	 
+	 	 - name: Xerostomia (dry mouth)
+	 	 	 subjects:
+	 	 	 - PHRM3101
+
+- system: Endocrine conditions
+	 tiers:
+	 
+	 - tier: 1
+	 	 conditions:
+	 	 
+	 	 - name: Diabetes, type 2 (including prediabetes)
+	 	 	 subjects:
+	 	 	 - PHRM2101
+	 	 	 - PHR4101
+	 	 
+	 	 - name: Hypothyroidism
+	 	 	 subjects:
+	 	 	 - PHRM2101
+	 
+	 - tier: 2
+	 	 conditions:
+	 	 
+	 	 - name: Adrenal gland disorders
+	 	 	 subjects:
+	 	 	 - PHRM2101
+	 	 
+	 	 - name: Diabetes, type 1 (including latent autoimmune diabetes)
+	 	 	 subjects:
+	 	 	 - PHRM2101
+	 	 
+	 	 - name: Gender-affirming therapy
+	 	 
+	 	 - name: Hyperglycemic crises
+	 	 	 subjects:
+	 	 	 - PHRM2101
+	 	 
+	 	 - name: Hyperthyroidism
+	 	 	 subjects:
+	 	 	 - PHRM2101
+	 	 
+	 	 - name: Male hypogonadism
+	 
+	 - tier: 3
+	 	 conditions:
+	 	 
+	 	 - name: Diabetes secondary e.g., monogenic diabetes syndromes, cystic fibrosis,
+	 	 	 	 pancreatitis, organ transplantation)
+	 	 
+	 	 - name: Pituitary gland disorders
+
+- system: GI conditions
+	 tiers:
+	 
+	 - tier: 1
+	 	 conditions:
+	 	 
+	 	 - name: Anorectal disorders (e.g., hemorrhoids)
+	 	 
+	 	 - name: Constipation
+	 	 	 subjects:
+	 	 	 - PHRM2101
+	 	 
+	 	 - name: Diarrhea
+	 	 	 subjects:
+	 	 	 - PHRM2101
+	 	 
+	 	 - name: Drug dosing in hepatic dysfunction
+	 	 
+	 	 - name: Gastroesophageal reflux disease (including heartburn)
+	 	 	 subjects:
+	 	 	 - PHRM2101
+	 	 	 - PHRM4101
+	 	 
+	 	 - name: Nausea and vomiting, simple (e.g., acute viral gastroenteritis, overindulgence,
+	 	 	 	 motion sickness)
+	 	 	 subjects:
+	 	 	 - PHRM2101
+	 
+	 - tier: 2
+	 	 conditions:
+	 	 
+	 	 - name: Cirrhosis, end-stage liver disease, and complications (e.g., portal hypertension,
+	 	 	 	 ascites, varices, hepatic encephalopathy, hepatorenal syndrome)
+	 	 	 subjects:
+	 	 	 - PHRM2101
+	 	 
+	 	 - name: Inflammatory bowel disease
+	 	 	 subjects:
+	 	 	 - PHRM2101
+	 	 
+	 	 - name: Irritable bowel syndrome
+	 	 	 subjects:
+	 	 	 - PHRM2101
+	 	 
+	 	 - name: Metabolic dysfunction-associated fatty liver disease
+	 	 	 subjects:
+	 	 	 - PHRM2101
+	 	 
+	 	 - name: Nausea and vomiting, complex (e.g., postoperative)
+	 	 	 subjects:
+	 	 	 - PHRM2101
+	 	 
+	 	 - name: Pancreatitis
+	 	 
+	 	 - name: Peptic ulcer disease (including stress-related mucosal injury, GI bleeding)
+	 	 	 subjects:
+	 	 	 - PHRM2101
+
+- system: Gynecologic and obstetric conditions
+	 tiers:
+	 
+	 - tier: 1
+	 	 conditions:
+	 	 
+	 	 - name: Contraception (including emergency contraception)
+	 	 	 subjects:
+	 	 	 - PHRM2101
+	 	 
+	 	 - name: Drug safety in pregnancy and lactation
+	 	 	 subjects:
+	 	 	 - PHRM2101
+	 	 	 - PHRM1102
+	 	 
+	 	 - name: Menopausal symptoms
+	 	 	 subjects:
+	 	 	 - PHRM2101
+	 
+	 - tier: 2
+	 	 conditions:
+	 	 
+	 	 - name: Diabetes, gestational
+	 	 	 subjects:
+	 	 	 - PHRM2101
+	 	 
+	 	 - name: Hypertensive disorders of pregnancy (e.g., pregnancy-induced hypertension,
+	 	 	 	 preeclampsia, eclampsia)
+	 	 	 subjects:
+	 	 	 - PHRM2102
+	 	 
+	 	 - name: Labor and delivery (e.g., labor induction, preterm labor, pain management,
+	 	 	 	 postpartum hemorrhage)
+	 	 
+	 	 - name: Menstrual cycle disorders (e.g., dysmenorrhea, menorrhagia, premenstrual
+	 	 	 	 dysphoric disorder)
+	 	 	 subjects:
+	 	 	 - PHRM2101
+	 	 	 - PHRM1102 (dysmenorrhea - relevant to OTC)
+	 	 
+	 	 - name: Other pregnancy-induced and chronic conditions (e.g., constipation, gastroesophageal
+	 	 	 	 reflux disease, nausea and vomiting, UTI)
+	 	 	 subjects:
+	 	 	 - PHRM2101
+	 	 
+	 	 - name: Postpartum depression
+	 	 	 subjects:
+	 	 	 - PHRM2101
+	 	 
+	 	 - name: Pregnancy termination
+	 
+	 - tier: 3
+	 	 conditions:
+	 	 
+	 	 - name: Endometriosis and uterine fibroids
+	 	 	 subjects:
+	 	 	 - PHRM2101
+	 	 
+	 	 - name: Female sexual dysfunction
+	 	 
+	 	 - name: Infertility
+	 	 
+	 	 - name: Polycystic ovary syndrome
+	 	 	 subjects:
+	 	 	 - PHRM2101
+
+- system: Hematologic conditions
+	 tiers:
+	 
+	 - tier: 1
+	 	 conditions:
+	 	 
+	 	 - name: Anemias (e.g., iron deficiency, vitamin B12deficiency, folic acid deficiency,
+	 	 	 	 chronic disease/inflammation)
+	 	 	 subjects:
+	 	 	 - PHRM2102
+	 
+	 - tier: 2
+	 	 conditions:
+	 	 
+	 	 - name: Heparin-induced thrombocytopenia
+	 	 
+	 	 - name: Sickle cell disease
+	 	 	 subjects:
+	 	 	 - PHRM2102
+	 
+	 - tier: 3
+	 	 conditions:
+	 	 
+	 	 - name: Coagulation disorders (e.g., hemophilia, von Willebrand disease, antiphospholipid
+	 	 	 	 syndrome, clotting factor deficiencies)
+	 	 	 subjects:
+	 	 	 - PHRM2102
+	 	 
+	 	 - name: Drug-induced hemolytic anemias
+	 	 	 subjects:
+	 	 	 - PHRM2102
+
+- system: Immunologic conditions
+	 tiers:
+	 
+	 - tier: 1
+	 	 conditions:
+	 	 
+	 	 - name: Allergies/drug hypersensitivities (e.g., anaphylaxis)
+	 	 	 subjects:
+	 	 	 - PHRM3101 (with respect to antibiotics)
+	 
+	 - tier: 2
+	 	 conditions:
+	 	 
+	 	 - name: Drug desensitization (e.g., penicillin skin testing)
+	 	 
+	 	 - name: Solid organ transplantation
+	 	 	 subjects:
+	 	 	 - PHRM3101
+	 	 
+	 	 
+	 	 - name: Systemic lupus erythematosus
+
+- system: Infectious diseases and conditions
+	 tiers:
+	 
+	 - tier: 1
+	 	 conditions:
+	 	 
+	 	 - name: Clostridioides difficileinfection
+	 	 	 subjects:
+	 	 	 - PHRM3101
+	 	 
+	 	 - name: Common parasitic diseases (e.g., head and body lice, pinworm)
+	 	 
+	 	 - name: Fungal infections, superficial (e.g., vulvovaginal and oral/esophageal
+	 	 	 	 candidiasis, dermatophytoses)
+	 	 	 subjects:
+	 	 	 - PHRM3101 (dermatophytoses)
+	 	 
+	 	 - name: Immunizations (including travel vaccinations)
+	 	 	 subjects:
+	 	 	 - PHRM3101 and PHRM3102
+	 	 
+	 	 - name: Influenza viral infection
+	 	 	 subjects:
+	 	 	 - PHRM3101
+	 	 	 - PHRM1102
+	 	 
+	 	 - name: Lower respiratory tract infections
+	 	 	 subjects:
+	 	 	 - PHRM3101
+	 	 
+	 	 - name: Skin and soft tissue infections
+	 	 	 subjects:
+	 	 	 - PHRM3101
+	 	 
+	 	 - name: Upper respiratory tract infections (e.g., otitis media, sinusitis, bronchitis,
+	 	 	 	 pertussis)
+	 	 	 subjects:
+	 	 	 - PHRM3101
+	 	 
+	 	 - name: UTIs, uncomplicated
+	 	 	 subjects:
+	 	 	 - PHRM3101
+	 	 	 - PHRM4101
+	 
+	 - tier: 2
+	 	 conditions:
+	 	 
+	 	 - name: Antimicrobial prophylaxis in surgery and other procedures
+	 	 	 subjects:
+	 	 	 - PHRM3101
+	 	 
+	 	 - name: Bloodstream and catheter infections
+	 	 	 subjects:
+	 	 	 - PHRM3101
+	 	 
+	 	 - name: Bone and joint infections
+	 	 
+	 	 - name: CNS infections (e.g., meningitis, encephalitis, brain abscess)
+	 	 	 subjects:
+	 	 	 - PHRM3101
+	 	 
+	 	 - name: Coronavirus disease 2019
+	 	 	 subjects:
+	 	 	 - PHRM3101 (I think PHRM3201 goes into the virus)
+	 	 	 - PHRM1102
+	 	 
+	 	 - name: Fungal infections, invasive (e.g., endemic fungus, cryptococcosis, aspergillosis,
+	 	 	 	 hematogenous candidiasis, mucormycosis)
+	 	 
+	 	 - name: GI infections (e.g., infectious diarrhea, enterotoxigenic poisonings)
+	 	 	 subjects:
+	 	 	 - PHRM3101 (H. pylori
+	 	 	 - gastro
+	 	 	 - giardia
+	 	 	 - C. diff
+	 	 	 - E. coli)
+	 	 
+	 	 - name: Hepatitis, viral
+	 	 	 subjects:
+	 	 	 - PHRM3101
+	 	 
+	 	 - name: HIV infection (including pre- and postexposure prophylaxis)
+	 	 	 subjects:
+	 	 	 - PHRM3101
+	 	 
+	 	 - name: Infective endocarditis
+	 	 	 subjects:
+	 	 	 - PHRM3101
+	 	 
+	 	 - name: Intra-abdominal infections
+	 	 	 subjects:
+	 	 	 - PHRM3101
+	 	 
+	 	 - name: Opportunistic infections in patients with altered immunocompetence
+	 	 	 subjects:
+	 	 	 - PHRM3101
+	 	 
+	 	 - name: Sexually transmitted infections (e.g., syphilis, gonorrhea, chlamydia,
+	 	 	 	 trichomoniasis, human papillomavirus, pelvic inflammatory disease)
+	 	 	 subjects:
+	 	 	 - PHRM3101
+	 	 
+	 	 - name: Tuberculosis
+	 	 	 subjects:
+	 	 	 - PHRM3101
+	 	 
+	 	 - name: UTIs, complicated
+	 	 	 subjects:
+	 	 	 - PHRM3101
+	 	 
+	 	 - name: Viral infections (e.g., varicella, cytomegalovirus, herpes simplex, measles,
+	 	 	 	 mumps, rabies)
+	 	 	 subjects:
+	 	 	 - PHRM3101 (not sure about CMV
+	 	 	 - rabies might be in vaccination)
+	 
+	 - tier: 3
+	 	 conditions:
+	 	 
+	 	 - name: Mycobacterial infections, other (leprosy, nontuberculous mycobacterial
+	 	 	 	 infections)
+	 	 
+	 	 - name: Prostatitis
+	 	 
+	 	 - name: Tickborne illnesses (e.g., Lyme borreliosis, ehrlichiosis, Rocky Mountain
+	 	 	 	 spotted fever, relapsing fever)
+	 	 
+	 	 - name: Travel medicine (including prevention and treatment)
+	 	 	 subjects:
+	 	 	 - PHRM3101 (a small amount in vaccination)
+
+- system: Kidney, fluid, and electrolyte conditions
+	 tiers:
+	 
+	 - tier: 1
+	 	 conditions:
+	 	 
+	 	 - name: Chronic kidney disease, prevention of progression
+	 	 	 subjects:
+	 	 	 - PHRM2102
+	 	 	 - PHRM4101
+	 	 	 - PHRM3102
+	 	 
+	 	 - name: Drug dosing in altered kidney function (excluding dialysis)
+	 	 	 subjects:
+	 	 	 - PHRM2102
+	 	 	 - PHRM4101
+	 	 	 - PHRM3102
+	 	 
+	 	 - name: Electrolyte disorders (e.g., potassium, calcium, phosphorus, magnesium)
+	 	 	 subjects:
+	 	 	 - PHRM2102
+	 
+	 - tier: 2
+	 	 conditions:
+	 	 
+	 	 - name: Acid-base disturbances
+	 	 
+	 	 - name: Acute kidney injury
+	 	 	 subjects:
+	 	 	 - PHRM2102
+	 	 	 - PHRM3102
+	 	 
+	 	 - name: Chronic kidney disease, secondary complications
+	 	 	 subjects:
+	 	 	 - PHRM2102
+	 	 	 - PHRM3102
+	 	 
+	 	 - name: Drug dosing in dialysis
+	 	 
+	 	 - name: Sodium and water disorders (including fluid management)
+	 
+	 - tier: 3
+	 	 conditions:
+	 	 
+	 	 - name: Kidney replacement therapies
+	 	 	 subjects:
+	 	 	 - PHRM3101
+
+- system: Musculoskeletal and connective tissue conditions
+	 tiers:
+	 
+	 - tier: 1
+	 	 conditions:
+	 	 
+	 	 - name: Gout and hyperuricemia
+	 	 	 subjects:
+	 	 	 - PHRM2101
+	 	 
+	 	 - name: Osteoarthritis
+	 	 	 subjects:
+	 	 	 - PHRM2101
+	 	 
+	 	 - name: Osteoporosis
+	 	 	 subjects:
+	 	 	 - PHRM2101
+Describe the pathophysiology of osteoporosis, including the roles of bone remodeling, osteoclast and osteoblast activity, and hormonal influences (e.g., estrogen, parathyroid hormone).
+Identify risk factors and populations at risk for osteoporosis, including postmenopausal women, older adults, individuals on long-term corticosteroids, and those with secondary causes (e.g., endocrine disorders).
+Explain the clinical goals of osteoporosis management, including:
+Reducing the risk of fragility fractures (hip, vertebral, and non-vertebral)
+Improving or maintaining bone mineral density (BMD)
+Minimizing adverse effects of therapy
+Enhancing patient quality of life and functional independence
+
+	 	 	 - PHRM3102
+	 	 	 
+Interpret diagnostic criteria and tools used in osteoporosis, including:
+Dual-energy X-ray absorptiometry (DXA)
+T-scores and Z-scores
+FRAX score for fracture risk assessment
+Describe pharmacological treatment options, including:
+First-line agents: bisphosphonates (e.g., alendronate, risedronate)
+Alternatives: denosumab, selective estrogen receptor modulators (SERMs), teriparatide, romosozumab
+Calcium and vitamin D supplementation
+Compare the mechanisms of action, efficacy, safety, and monitoring of osteoporosis medications.
+Apply evidence-based guidelines to develop individualized treatment plans for patients with osteoporosis or low bone mass.
+Evaluate non-pharmacological strategies for osteoporosis prevention and management, including:
+Weight-bearing and resistance exercise
+Fall prevention strategies
+Lifestyle modifications (e.g., smoking cessation, alcohol moderation)
+	 	 
+	 	 - name: Soft tissue injuries (e.g., strains, sprains, myalgias)
+	 	 	 subjects:
+	 	 	 - PHRM1102 (OTC conditions)
+	 
+	 - tier: 2
+	 	 conditions:
+	 	 
+	 	 - name: Rheumatoid arthritis
+	 	 	 subjects:
+	 	 	 - PHRM2101
+	 
+	 - tier: 3
+	 	 conditions:
+	 	 
+	 	 - name: Rhabdomyolysis
+	 	 	 subjects:
+	 	 	 - PHRM2102 (in dyslipidaemias)
+
+- system: Neurologic conditions
+	 tiers:
+	 
+	 - tier: 1
+	 	 conditions:
+	 	 
+	 	 - name: Headache (e.g., tension-type, migraine, cluster)
+	 	 	 subjects:
+	 	 	 - PHRM1102 (Migraine
+	 	 	 - Tension + OTC treatment options). PHRM3102
+	 	 	 Explain the different types of headaches and its causes
+	 	 	 Apply therapeutic knowledge of pain management to ensure appropriate management 
+	 	 
+	 	 - name: Pain, neuropathic (e.g., diabetic, postherpetic)
+	 	 	 subjects:
+	 	 	 - PHRM2101
+	 	 	 - PHRM1102 (relevant to OTC)
+	 	 	 - PHRM3102
+	 	 	 Explain the principles of pain management, with a focus on neuropathic pain
+	 	 	 Describe the treatment options of neuropathic pain therapies
+
+	 	 
+	 	 
+	 	 - name: Pain, nociceptive (acute and chronic)
+	 	 	 subjects:
+	 	 	 - PHRM2101
+	 	 	 - PHRM1102 (relevant to OTC)
+	 	 	 - PHRM3102
+	 ? Explain the principles of pain management, the complex nature of pain, and how to manage acute and chronic non-cancer pain. 
+? Identify pain causes, pain types, and pain intensity.*
+? Discuss the importance of appropriate analgesic selection and opioid stewardship. 
+? Implement clinical knowledge to authentic pain cases which involve multimorbidity and other patient specific considerations. 
+? Explain pain management, including the appropriate use of pain adjuvants and use of medicinal cannabis in the treatment of chronic non-cancer pain
+
+	 - tier: 2
+	 	 conditions:
+	 	 
+	 	 - name: Epilepsy
+	 	 	 subjects:
+	 	 	 - PHRM2102
+	 	 	 - PHRM3102
+	 	 
+	 	 - name: Essential tremor
+	 	 
+	 	 - name: Fibromyalgia
+	 	 
+	 	 - name: Multiple sclerosis
+	 	 	 subjects:
+	 	 	 - PHRM2102
+	 	 
+	 	 - name: Neurocognitive disorders (e.g., Alzheimer disease, vascular dementia,
+	 	 	 	 frontotemporal dementia)
+	 	 	 subjects:
+	 	 	 - PHRM2102
+	 	 	 Describe the pathophysiology and progression of Alzheimer?s disease and other common dementias (e.g., vascular, Lewy body, frontotemporal). 
+	 	 	 Identify early and late clinical features of dementia, including cognitive, behavioural, and functional impairments.
+	 	 	 Explain the therapeutic goals in the management of dementia, including:
+	 	 	 	 Slowing cognitive decline
+	 	 	 	 Managing behavioural and psychological symptoms
+	 	 	 	 Preserving functional independence
+	 	 	 	 Reducing caregiver burden and improving quality of life
+	 	 	 	 Describe pharmacological treatment options, including:
+	 	 	 	 Cholinesterase inhibitors (e.g., donepezil, rivastigmine, galantamine)
+	 	 	 	 NMDA receptor antagonists (e.g., memantine)
+	 	 	 	 Agents for behavioural symptoms (e.g., antidepressants, antipsychotics[only if necessary and with caution]
+
+	 	 	 - PHRM3102
+	 	 Bulding on the above - in addition to describing and applying therapeutic options:
+	 	 Compare the mechanisms of action, efficacy, safety, and monitoring of dementia medications.
+	 	 Apply evidence-based guidelines to develop individualized treatment plans based on dementia type, stage, and patient-specific factors.
+	 	 Evaluate non-pharmacological interventions, such as cognitive stimulation therapy, environmental modifications, and caregiver support strategies.
+	 	 Recognize the pharmacist?s role in:
+	 	 Educating patients and caregivers about disease progression and medication use
+	 	 Monitoring for adverse effects and drug interactions
+	 	 Supporting adherence and deprescribing when appropriate
+	 	 Collaborating with multidisciplinary teams in dementia care
+	 	 Interpret clinical and cognitive assessment tools, such as the MMSE, MoCA, and ADAS-Cog, to support diagnosis and monitor disease progression. 	 	
+	 	 - name: Parkinson disease
+	 	 	 subjects:
+	 	 	 - PHRM2102
+	 	 	 Describe the pathophysiology of Parkinson?s disease, including the role of dopaminergic neuron degeneration in the substantia nigra and its impact on motor control.
+	 	 	 Identify the cardinal motor and non-motor symptoms of Parkinson?s disease, including tremor, rigidity, bradykinesia, postural instability, and neuropsychiatric manifestations.
+Explain the therapeutic goals in the management of Parkinson?s disease, including:
+Improving the patient?s ability to perform activities of daily living 1
+Minimizing motor and non-motor symptom burden
+Reducing medication-related complications (e.g., dyskinesias, motor fluctuations)
+Enhancing quality of life and functional independence
+Describe pharmacological treatment options, including:
+Dopaminergic agents (e.g., levodopa/carbidopa)
+Dopamine agonists, MAO-B inhibitors, COMT inhibitors
+Anticholinergics and amantadine for specific symptom control
+
+	 	 	 - PHRM3102
+	 	 	 Compare the mechanisms of action, efficacy, side effects, and monitoring of antiparkinsonian medications.
+Apply evidence-based guidelines to develop individualized treatment plans based on disease stage, symptom profile, and patient-specific factors.
+Recognize the importance of medication timing and dietary considerations, particularly with levodopa and protein interactions.
+Evaluate non-pharmacological interventions, including physiotherapy, occupational therapy, speech therapy, and surgical options (e.g., deep brain stimulation).
+Demonstrate the pharmacist?s role in:
+Educating patients and caregivers on medication use and adherence
+Monitoring for adverse effects and drug interactions
+Supporting multidisciplinary care and transitions between care settings
+	 	 
+	 	 - name: Sleep?éçwake disorders (e.g., narcolepsy, restless legs syndrome, circadian
+	 	 	 	 rhythm disorders; see also ?é£Insomnia?éó in the Psychiatric and Behavioral
+	 	 	 	 Conditions section)
+	 	 	 subjects:
+	 	 	 - PHRM2101
+	 	 
+	 	 - name: Status epilepticus
+	 
+	 - tier: 3
+	 	 conditions:
+	 	 
+	 	 - name: Amyotrophic lateral sclerosis
+	 	 
+	 	 - name: Huntington disease
+	 	 
+	 	 - name: Myasthenia gravis
+
+- system: Nutritional conditions
+	 tiers:
+	 
+	 - tier: 1
+	 	 conditions:
+	 	 
+	 	 - name: Nutrient deficiency and excess (including vitamins and trace minerals)
+	 	 	 subjects:
+	 	 	 - PHRM2101
+	 	 
+	 	 - name: Overweight and obesity
+	 	 	 subjects:
+	 	 	 - PHRM2101
+	 	 	 	 	 	 ? Understand Obesity as a Chronic Disease: Explain the pathophysiology, classification, and public health impact of obesity in Australia, including disparities in Indigenous populations.
+	 	 	 	 	 	 	 Assess and Stratify Risk: Conduct comprehensive assessments, identify comorbidities, and determine appropriate interventions using Australian clinical guidelines.
+	 	 	 	 	 	 	 Implement Lifestyle and Behavioural Strategies: Support patients in adopting evidence-based dietary, physical activity, and behavioural changes, using motivational interviewing and culturally sensitive approaches.
+	 	 	 	 	 	 	 Apply Pharmacological and Surgical Interventions: Describe the mechanisms, indications, and monitoring of anti-obesity medications and bariatric procedures, including post-operative care and medication adjustments.
+	 	 	 	 	 	 	 
+	 	 	 - PHRM3102
+	 	 	 	 	 	 	 Optimise Medication Management: Develop and monitor medication plans that minimise weight gain, manage comorbidities, and consider altered pharmacokinetics in obesity.
+	 	 	 	 	 	 	 Promote Ethical and Professional Practice: Address weight stigma, use person-first language, and advocate for equitable, respectful care in diverse populations.
+
+	 - tier: 2
+	 	 conditions:
+	 	 
+	 	 - name: Malabsorptive syndrome (including metabolic surgical procedures)
+	 	 	 subjects:
+	 	 	 - PHRM2101
+	 	 
+	 	 - name: Malnutrition prevention and treatment (e.g., enteral and parenteral nutrition)
+
+- system: Oncologic conditions
+	 tiers:
+	 
+	 - tier: 1
+	 	 conditions:
+	 	 Can we re-write these headings as at an undergraduate level I think we focus on overall management of cancer and cancer care from a 
+	 	 pharmacists perspective
+
+	 	 Describe the pathophysiology and epidemiology of common cancers in Australia (e.g., breast, colorectal, lung, prostate, melanoma).
+Explain the principles of cancer staging and how they influence treatment decisions.
+Identify the pharmacological classes of anticancer agents, including cytotoxics, targeted therapies, immunotherapies, and hormonal agents.
+2. Patient-Centred Cancer Care
+Apply patient-specific factors (e.g., age, comorbidities, performance status, pharmacogenomics) to select appropriate cancer therapies.
+Communicate effectively with patients and interdisciplinary teams regarding cancer treatment plans, expected outcomes, and side effects.
+Demonstrate cultural competence in cancer care, including considerations for Aboriginal and Torres Strait Islander peoples.
+3. Medication Management and Monitoring
+Develop and justify evidence-based medication management plans for patients undergoing chemotherapy, immunotherapy, or supportive care.
+Monitor for and manage common adverse effects of cancer therapies (e.g., nausea, neutropenia, mucositis, cardiotoxicity).
+Interpret laboratory and clinical data to assess treatment response and toxicity.
+
+Discuss the expanding role of community pharmacists in managing patients receiving oral anti-cancer drugs
+List common medication errors to reduce the risk of future medication errors occurring
+Explain the common side effects, interactions and toxicities associated with oral anti-cancer drugs
+	 	 
+	 	 - name: Supportive care I (pain, nausea, vomiting, constipation, diarrhea, fatigue,
+	 	 	 	 mucositis)
+
+	 	 	 	 	 	 	 Describe the pathophysiology and causes of common adverse effects associated with cancer therapies, including chemotherapy, radiation, and targeted agents.
+	 	 	 	 	 	 	 Explain the therapeutic goals of supportive care in oncology, including:
+	 	 	 	 	 	 	 Preventing or minimizing treatment-related complications
+	 	 	 	 	 	 	 Enhancing patient comfort and quality of life
+	 	 	 	 	 	 	 Supporting treatment adherence and completion
+	 	 	 	 	 	 	 Reducing hospitalizations and healthcare burden
+	 	 	 	 	 	 	 Identify pharmacological and non-pharmacological strategies for managing:
+	 	 	 	 	 	 	 Pain: Use of opioids, adjuvant analgesics, and individualized pain management plans
+	 	 	 	 	 	 	 Nausea and vomiting: Classification (acute, delayed, anticipatory), antiemetic regimens (e.g., 5-HT3 antagonists, NK1 antagonists, corticosteroids)
+	 	 	 	 	 	 	 Constipation: Laxatives, stool softeners, opioid-induced constipation management
+	 	 	 	 	 	 	 Diarrhea: Antidiarrheals (e.g., loperamide), hydration, and dietary adjustments
+	 	 	 	 	 	 	 Fatigue: Non-pharmacological interventions, psychostimulants, and anemia management
+	 	 	 	 	 	 	 Mucositis: Oral hygiene, topical agents, cryotherapy, and pain control
+	 	 	 	 	 	 	 Apply evidence-based guidelines to recommend appropriate supportive care interventions based on cancer type, treatment regimen, and patient-specific factors.
+	 	 	 	 	 	 	 Evaluate the safety, efficacy, and monitoring requirements of supportive care medications, including potential drug interactions with anticancer therapies.
+	 	 	 	 	 	 	 Recognize the pharmacist?s role in:
+	 	 	 	 	 	 	 Educating patients and caregivers on symptom management
+	 	 	 	 	 	 	 Monitoring for adverse effects and treatment complications
+	 	 	 	 	 	 	 Collaborating with oncology teams to optimize supportive care
+	 	 	 	 	 Interpret clinical scenarios and patient-reported outcomes to assess the need for supportive care interventions and adjust therapy accordingly.
+	 
+	 - tier: 2 - arguably this could be tier 3
+	 	 conditions:
+	 	 
+	 	 - name: Breast cancer
+	 	 	 subjects:
+	 	 	 - PHRM3102
+	 	 	 	 	Describe the pathophysiology, molecular subtypes, and diagnostic tools used in breast cancer.
+	 	 	 	 Explain the therapeutic goals of breast cancer treatment, including disease control, prevention of recurrence, and quality of life.
+	 	 	 	 Identify and compare key treatment modalities, including endocrine therapy, chemotherapy, targeted therapy, and immunotherapy.
+	 	 	 	 Apply evidence-based guidelines to develop and monitor individualized treatment plans.
+	 	 	 	 Recognize the pharmacist?s role in patient education, adverse effect management, and multidisciplinary care. 	 	
+	 	 - name: Colorectal cancer
+	 	 	 subjects:
+	 	 	 - PHRm3102
+	 	 
+	 	 - name: Gynecologic cancers (cervical, endometrial, ovarian)
+	 	 
+	 	 - name: Leukemias, acute and chronic
+	 	 	 subjects:
+	 	 	 - PHRM3102
+	 	 
+	 	 - name: Lung cancer
+	 	 	 subjects:
+	 	 	 - PHRM3102 - broadly not a key focus
+	 	 
+	 	 - name: Lymphomas (Hodgkin lymphoma, non-Hodgkin lymphoma)
+	 	 	 subjects:
+	 	 	 - PHRM3102
+	 	 
+	 	 - name: Melanoma
+	 	 	 subjects:
+	 	 	 - COvered in a case in Palliative care PHRM3102
+	 	 
+	 	 - name: Multiple myeloma
+	 	 	 subjects:
+	 	 	 - PHRM3102
+	 	 
+	 	 - name: Oncologic emergencies (e.g., tumor lysis syndrome, hypercalcemia, coagulopathy,
+	 	 	 	 febrile neutropenia)
+	 	 	 subjects:
+	 	 	 - PHRM3102
+	 	 	 	 Describe the pathophysiology and clinical presentation of common oncologic emergencies, including tumor lysis syndrome, hypercalcemia of malignancy, coagulopathies, and febrile neutropenia.
+	 	 	 	 Explain the therapeutic goals and urgency of managing oncologic emergencies to prevent morbidity and mortality.
+	 	 	 	 Identify appropriate pharmacological and supportive interventions, including hydration, electrolyte management, antimicrobials, and specific antidotes (e.g., rasburicase, bisphosphonates, G-CSF).
+	 	 	 	 Apply evidence-based protocols to assess, triage, and manage patients experiencing oncologic emergencies.
+	 	 	 Recognize the pharmacist?s role in early detection, medication selection, monitoring, and interprofessional collaboration in acute oncology care. 	 	
+	 	 - name: Prostate cancer
+	 	 
+	 	 - name: Supportive care II (e.g., myelosuppression, thrombosis, extravasation)
+	 	 	 subjects:
+	 	 	 - PHRM3102
+	 
+	 - tier: 3
+	 	 conditions:
+	 	 
+	 	 - name: Bladder cancer
+	 	 	 subjects:
+	 	 	 - PHRM3102
+	 	 
+	 	 - name: Germ cell tumors
+	 	 	 subjects:
+	 	 	 - PHRM3102
+	 	 
+	 	 - name: Head and neck cancer
+	 	 
+	 	 - name: Hematopoietic stem cell transplantation, including complications
+	 	 
+	 	 - name: GI cancers, other (e.g., carcinoid, esophageal, gastric, hepatobiliary,
+	 	 	 	 pancreatic)
+	 	 
+	 	 - name: Myelodysplastic syndromes
+	 	 
+	 	 - name: Renal cell carcinoma
+	 	 
+	 	 - name: Skin cancer, nonmelanoma (e.g., basal cell carcinoma, cutaneous squamous
+	 	 	 	 cell carcinoma)
+
+- system: Ophthalmic conditions
+	 tiers:
+	 
+	 - tier: 1
+	 	 conditions:
+	 	 
+	 	 - name: Conjunctivitis (e.g., bacterial, viral, allergic)
+	 	 	 subjects:
+	 	 	 - PHRM3101
+	 	 
+	 	 - name: Keratoconjunctivitis sicca (dry eye syndrome)
+	 	 	 subjects:
+	 	 	 - PHRM3101
+	 
+	 - tier: 2
+	 	 conditions:
+	 	 
+	 	 - name: Glaucoma
+	 
+	 - tier: 3
+	 	 conditions:
+	 	 
+	 	 - name: Bacterial keratitis
+	 	 
+	 	 - name: Blepharitis
+	 	 	 subjects:
+	 	 	 - PHRM3101
+	 	 
+	 	 - name: Corneal abrasions
+	 	 
+	 	 - name: Hordeolum (stye)
+	 	 
+	 	 - name: Macular degeneration
+	 	 	 subjects:
+	 	 	 - PHRM3101
+	 	 
+	 	 - name: Retinopathy
+
+- system: Psychiatric and behavioral conditions
+	 tiers:
+	 
+	 - tier: 1
+	 	 conditions:
+	 	 
+	 	 - name: Anxiety disorders (e.g., generalized anxiety, panic, social anxiety disorder)
+	 	 	 subjects:
+	 	 	 - PHRM2101
+	 	 
+	 	 - name: Depressive disorders (e.g., major depressive disorder)
+	 	 	 subjects:
+	 	 	 - PHRM2101
+	 	 
+	 	 - name: Insomnia (see other sleep?éçwake disorders in the Neurologic Conditions
+	 	 	 	 section)
+	 	 	 subjects:
+	 	 	 - PHRM2101
+	 	 
+	 	 - name: Opioid use disorder (including opioid withdrawal)
+	 	 	 subjects:
+	 	 	 - PHRM4101
+	 	 
+	 	 - name: Tobacco/nicotine use disorder (including smoking cessation)
+	 	 	 subjects:
+	 	 	 - PHRM4101
+	 
+	 - tier: 2
+	 	 conditions:
+	 	 
+	 	 - name: Alcohol use disorder (including alcohol withdrawal)
+	 	 
+	 	 - name: Attention-deficit/hyperactivity disorder
+	 	 	 subjects:
+	 	 	 - PHRM3102
+	 	 
+	 	 - name: Bipolar disorder (e.g., mania, bipolar depression, maintenance therapy)
+	 	 	 subjects:
+	 	 	 - PHRM2101
+	 	 	 - PHRM3102
+	 	 
+	 	 - name: Delirium/acute agitation (non-critically ill patients)
+	 	 	 subjects:
+	 	 	 - PHRM3102
+	 	 
+	 	 - name: Schizophrenia
+	 	 	 subjects:
+	 	 	 - PHRM2101
+	 	 	 - PHRM3102
+	 	 
+	 	 - name: Trauma- and stressor-related disorders (e.g., posttraumatic stress disorder)
+	 
+	 - tier: 3
+	 	 conditions:
+	 	 
+	 	 - name: Eating disorders (e.g., anorexia nervosa, bulimia nervosa, binge-eating
+	 	 	 	 disorder)
+	 	 
+	 	 - name: Obsessive-compulsive disorders
+	 	 
+	 	 - name: Substance use disorders, other (e.g., hallucinogens, stimulants, depressants,
+	 	 	 	 performance-enhancing drugs)
+
+- system: Respiratory conditions
+	 tiers:
+	 
+	 - tier: 1
+	 	 conditions:
+	 	 
+	 	 - name: Asthma
+	 	 	 subjects:
+	 	 	 - PHRM3101
+	 	 
+	 	 - name: Chronic obstructive pulmonary disease
+	 	 	 subjects:
+	 	 	 - PHRM3101
+	 	 	 - PHRM4101
+	 
+	 - tier: 2
+	 	 conditions:
+	 	 
+	 	 - name: Cystic fibrosis
+	 	 	 subjects:
+	 	 	 - PHRM3101 (i think we have greatly reduced the content on CF compared to PHRM3012)
+	 	 
+	 	 - name: Obstructive sleep apnea
+	 	 	 subjects:
+	 	 	 - PHRM2101
+
+- system: Urologic conditions
+	 tiers:
+	 
+	 - tier: 1
+	 	 conditions:
+	 	 
+	 	 - name: Benign prostatic hypertrophy
+	 	 	 subjects:
+	 	 	 - PHRM2101
+	 	 
+	 	 - name: Erectile dysfunction
+	 	 	 subjects:
+	 	 	 - PHRM2101
+	 	 	 - PHRM3102 has one case
+	 	 
+	 	 - name: Urinary incontinence (including overactive bladder)
+	 	 	 subjects:
+	 	 	 - PHRM3102
+
+- system: Pediatrics
+	 tiers:
+	 
+	 - tier: 1
+	 	 conditions:
+	 	 
+	 	 - name: Dehydration and oral replacement therapy
+	 	 
+	 	 - name: Fever
+	 	 	 subjects:
+	 	 	 - PHRM3101
+	 	 	 - PHRM1102 (relevant to OTC)
+	 	 
+	 	 - name: Pain relief
+	 	 	 subjects:
+	 	 	 - PHRM1102 (relevant to OTC)
+	 	 
+	 	 - name: Pediatric drug dosing
+	 	 	 subjects:
+	 	 	 - PHRM1102
+	 	 	 - PHRM3102
+	 
+	 - tier: 2
+	 	 conditions:
+	 	 
+	 	 - name: Bronchiolitis (including RSV)
+	 	 	 subjects:
+	 	 	 - PHRM3101
+	 	 
+	 	 - name: Neonatal and pediatric critical care (e.g., apnea of prematurity, bronchopulmonary
+	 	 	 	 dysplasia, sepsis, respiratory distress syndrome)
+	 	 	 subjects:
+	 	 	 - PHRM3102
+	 
+	 - tier: 3
+	 	 conditions:
+	 	 
+	 	 - name: Congenital heart disease (including patent ductus arteriosus)
+	 	 	 subjects:
+	 	 	 - PHRM3102
+	 	 
+	 	 - name: Enuresis
+	 	 	 subjects:
+	 	 	 - PHRM3102
+	 	 
+	 	 - name: Nutrient deficiency in infants and children
+	 	 
+	 	 - name: Pediatric advanced life support
+
+- system: Older people
+	 tiers:
+	 
+	 - tier: 1
+	 	 conditions:
+	 	 
+	 	 - name: Safe medication use in older people (e.g., tools for improving medication
+	 	 	 	 safety [AGS Beers, STOPP/START, STEADI-Rx], drug dosing and monitoring, PIMs,
+	 	 	 	 deprescribing)
+	 	 	 subjects:
+	 	 	 - PHRM4101
+	 	 	 - PHRM3102
+
+- system: Critically ill
+	 tiers:
+
+	 	 Understand the Scope and Role of the Critical Care Pharmacist: Describe the evolution and impact of pharmacy practice in intensive care units (ICUs), including levels of pharmacist involvement.
+	 	 Recognise the pharmacist?s role in improving outcomes in high-acuity conditions such as sepsis, ARDS, and multi-organ failure.
+	 	 Apply Clinical and Pharmacological Knowledge in Critical Illness
+	 	 Explain the pathophysiology and pharmacotherapy of common ICU conditions, with a focus on ARDS, sepsis, acute kidney injury, and shock.
+	 	 Optimise drug dosing using pharmacokinetic and pharmacodynamic principles in critically ill patients, including those on mechanical ventilation or extracorporeal support.
+	 	 Deliver Evidence-Based, Patient-Centred Care: Develop and monitor medication regimens tailored to the dynamic needs of ICU patients, including those with ARDS.
+	 	 Collaborate in Multidisciplinary ICU Teams: Communicate effectively with intensivists, nurses, and allied health professionals to contribute to team-based care.
+
+	 
+	 - tier: 2
+	 	 conditions:
+	 	 
+	 	 - name: Acute respiratory distress syndrome
+	 	 	 subjects:
+	 	 	 - PHRM3102
+	 	 
+	 	 - name: CNS trauma
+	 	 
+	 	 - name: Pain, agitation, and delirium
+	 	 	 subjects:
+	 	 	 - PHRM3102
+	 	 
+	 	 - name: Respiratory support (including rapid sequence intubation)
+	 	 	 subjects:
+	 	 	 - PHRM3102
+	 	 
+	 	 - name: Sepsis
+	 	 	 subjects:
+	 	 	 - PHRM3101
+	 	 
+	 	 - name: Shock syndromes
+	 
+	 - tier: 3
+	 	 conditions:
+	 	 
+	 	 - name: Burns, major/severe
+	 	 
+	 	 - name: Extracorporeal membrane oxygenation, pharmacologic considerations
+	 	 	 subjects:
+	 	 	 - PHRM3102
+	 	 
+	 	 - name: Mechanical circulatory support devices, pharmacologic considerations
+	 	 	 subjects:
+	 	 	 - PHRM3102
+	 	 
+	 	 - name: Post-intensive care syndrome
+	 	 
+	 	 - name: Subarachnoid hemorrhage, aneurysmal
+	 	 	 subjects:
+	 	 	 - PHRM2102
+
+- system: Terminally ill
+	 tiers:
+	 
+	 - tier: 2
+	 	 conditions:
+	 	 
+	 	 - name: End-of-life care and symptom management
+	 	 	 subjects:
+	 	 	 - PHRM3102
+	 
+	 - tier: 3
+	 	 conditions:
+	 	 
+	 	 - name: Medical aid in dying
+	 	 	 subjects:
+	 	 	 - PHRM3102
+
+- system: Toxicologic conditions
+	 tiers:
+	 
+	 - tier: 1
+	 	 conditions:
+	 	 
+	 	 - name: Acetaminophen toxicity
+	 	 	 subjects:
+	 	 	 - PHRM3102
+Identify the stages and symptoms of paracetamol poisoning. 
+Describe the metabolism of paracetamol and the mechanism of hepatotoxicity. 
+Recognize risk factors that increase the likelihood of liver damage. 
+Outline treatment strategies including the use of N-acetylcysteine (NAC). 
+Interpret paracetamol levels using the treatment nomogram. 
+Discuss the importance of early intervention and patient education. 
+Explain the pharmacist?s role in prevention and management of overdose.
+
+	 	 - name: Opioid overdose
+	 	 	 subjects:
+	 	 	 - PHRM2101
+	 	 	 - PHRM3102
+1. Recognise and Respond to Opioid Overdose
+* Identify clinical signs and symptoms of opioid toxicity and distinguish it from other toxidromes.
+* Apply evidence-based protocols for the acute management of opioid overdose, including airway support and naloxone administration.
+2. Optimise Pharmacological Interventions
+* Explain the pharmacology, dosing, routes of administration, and monitoring of naloxone in various settings.
+* Evaluate the role of long-acting opioid antagonists and supportive therapies in overdose management.
+3. Promote Safe and Ethical Practice
+* Counsel patients and caregivers on naloxone use, overdose prevention, and harm minimisation strategies.
+* Address stigma and ethical considerations in the care of individuals with opioid use disorder or overdose history.
+
+	 
+	 - tier: 2
+	 	 conditions:
+	 	 
+	 	 - name: Anticoagulation overdose and reversal
+	 	 	 subjects:
+	 	 	 - PRHM3102
+1. Understand Anticoagulant Toxicity
+* Describe the mechanisms, risks, and clinical signs of overdose for warfarin, DOACs, and heparins.
+2. Assess and Monitor Bleeding
+* Interpret coagulation tests (e.g., INR, aPTT) and recognise signs of minor and major bleeding.
+3. Apply Reversal Strategies
+* Select and administer appropriate reversal agents (e.g., vitamin K, PCC, idarucizumab) based on the anticoagulant and clinical scenario.
+4. Optimise Patient Safety
+* Adjust therapy post-reversal and counsel patients on safe anticoagulant use and bleeding risk.
+5. Collaborate in Acute Care
+* Contribute to emergency and critical care teams managing anticoagulant toxicity and support institutional safety protocols.
+
+	 	 
+	 	 - name: Antidepressant overdose (including serotonin syndrome)
+	 	 	 subjects:
+	 	 	 - PHRM2101
+	 	 
+	 	 - name: Antihypertensive medication toxicity
+	 	 
+	 	 - name: Benzodiazepine overdose
+	 	 	 subjects:
+	 	 	 - PHRM3102
+1. Understand Benzodiazepine Pharmacology and Toxicity
+* Describe the mechanism of action, therapeutic uses, and toxic effects of benzodiazepines, including risk factors for overdose.
+2. Recognise and Assess Toxicity
+* Identify clinical features of benzodiazepine toxicity (e.g., CNS depression, respiratory compromise) and interpret relevant assessments (e.g., tox screens, vital signs, GCS).
+3. Manage Acute Toxicity
+* Apply appropriate management strategies, including supportive care and the use of flumazenil, with consideration of risks and contraindications.
+4. Promote Safe Use and Harm Reduction
+* Counsel patients on safe benzodiazepine use, tapering strategies, and overdose prevention, particularly in populations at risk (e.g., elderly, polypharmacy, substance use disorder).
+5. Collaborate in Acute and Community Care
+* Contribute to multidisciplinary care in emergency and mental health settings, and support public health initiatives related to benzodiazepine safety and misuse prevention
+
+	 	 
+	 	 - name: Digoxin toxicity
+	 	 	 subjects:
+	 	 	 - PHRM3102
+1. 	 	 Understand Digoxin Pharmacology and Toxicity
+* Describe the mechanism of action, therapeutic range, and toxic effects of digoxin, including risk factors for toxicity.
+2. Recognise and Assess Toxicity
+* Identify clinical signs of digoxin toxicity (e.g., nausea, visual disturbances, arrhythmias) and interpret relevant lab results (e.g., serum digoxin levels, electrolytes, ECG).
+3. Manage Acute and Chronic Toxicity
+* Apply evidence-based strategies for managing digoxin toxicity, including dose adjustment, electrolyte correction, and use of digoxin-specific antibody fragments (Digibind).
+4. Optimise Patient Safety
+* Counsel patients on safe digoxin use, adherence, and monitoring, especially in populations at higher risk (e.g., elderly, renal impairment).
+5. Collaborate in Acute and Ongoing Care
+* Work with healthcare teams to manage digoxin toxicity in emergency and inpatient settings, and support long-term medication safety and monitoring.
+
+	 	 - name: Salicylate poisoning
+	 	 	 subjects:
+	 	 	 - PHRM3102
+	 	 
+	 	 - name: Sympathomimetic toxicity (e.g., cocaine, amphetamines, novel synthetic
+	 	 	 	 cathinones)
+	 	 	 subjects:
+	 	 	 - PHRM3102
+1. 	 	 Understand Sympathomimetic Agents and Toxicity
+* Describe the pharmacology, mechanisms of toxicity, and common sources of sympathomimetic agents (e.g., cocaine, amphetamines, synthetic cathinones).
+2. Recognise and Assess Toxicity
+* Identify clinical features of toxicity (e.g., agitation, hypertension, hyperthermia, arrhythmias) and interpret relevant investigations (e.g., ECG, tox screens, vital signs).
+3. Manage Acute Toxicity
+* Apply evidence-based treatment strategies, including sedation, cooling, cardiovascular support, and management of complications such as seizures or rhabdomyolysis.
+4. Promote Harm Reduction and Safe Practice
+* Counsel patients on the risks of recreational and illicit drug use, and support harm minimisation strategies in collaboration with public health services.
+5. Collaborate in Emergency and Mental Health Care
+* Work with multidisciplinary teams in acute care settings to manage toxicity and support ongoing care, including mental health and substance use services.
+
+	 	 - name: Toxic alcohol poisoning (e.g., ethylene glycol, methanol)
+	 	 	 subjects:
+	 	 	 - PHRM3102
+	 
+	 - tier: 3
+	 	 conditions:
+	 	 
+	 	 - name: Anticholinergic toxicity (e.g., atropine, antimuscarinic chemical weapons)
+	 	 	 subjects:
+	 	 	 - PHRM3102
+	 	 
+	 	 - name: Cannabinoid toxicity
+	 	 	 subjects:
+	 	 	 - PHRM3102
+	 	 
+	 	 - name: Cholinergic toxicity (e.g., anticholinesterase insecticides, nerve agent
+	 	 	 	 chemical weapons)
+	 	 	 subjects:
+	 	 	 - PHRM3102
+Identify symptoms	of cholinergic toxicity 
+Explain mechanisms	of cholinesterase inhibitor toxicity
+Differentiate	from similar conditions using clinical reasoning 
+Apply treatment protocols	including antidotes
+Interpret diagnostics	like cholinesterase levels ? Not sure if this is needed ? to check with JB
+	 	 
+	 	 - name: Envenomations
+	 	 	 subjects:
+	 	 	 - PHRM3102
+Identify the signs and symptoms	of common envenomations in Australia, including those from snakes, spiders, and jellyfish.
+Describe how venoms affect the body, including their toxicological and pharmacological actions.
+Distinguish envenomation syndromes	from other medical emergencies with similar presentations.
+Outline appropriate treatment strategies, including the use of antivenoms and supportive care.
+Interpret clinical and laboratory findings	to assist in diagnosis and monitor treatment progress.
+Explain the pharmacist?s role	in emergency care and collaboration with healthcare teams during envenomation cases.
+
+NB: I think Tox should be one topic with combined LOs vs separate LOs for each toxic agent ? it forms one week of content and is combined with crit care
+
+Palliative Care 
+Tier 2?
+PHRM3102
+Understand the goals and principles of palliative care, including comfort, dignity, and quality of life.
+Recognize common symptoms managed in palliative care, such as pain, nausea, breathlessness, and anxiety.
+Describe the role of pharmacists in medication management and deprescribing in palliative settings.
+Identify appropriate use of opioids and adjuvant therapies for symptom control.
+Communicate effectively and compassionately with patients, families, and healthcare teams.
+Understand ethical and legal considerations in end-of-life care, including advance care planning.
+Support culturally sensitive and patient-centered care in diverse populations

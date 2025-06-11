@@ -1,0 +1,40 @@
+bookdown::pdf_document2:
+    # template: RMD_latextemp_uq.latex
+    # template: ${HOME}/Dropbox/Pandoc/pandoc_DATADIR/templates/lettertemp
+    includes:
+        # in_header: ${HOME}/Dropbox/Pandoc/pandoc_DATADIR/rmarkdown/doc/preamble2.tex # for UQ documents
+        in_header: ${HOME}/Dropbox/Pandoc/pandoc_DATADIR/rmarkdown/doc/preamble_notes.tex # for lecture notes
+    toc: false
+    # toc_depth: 2
+    number_sections: false
+    keep_tex: false
+bookdown::html_document2:
+    toc: true
+    number_sections: false
+    theme: "readable"
+bookdown::word_document2:
+    reference_docx: ${HOME}/Dropbox/Pandoc/pandoc_DATADIR/templates/uq_template_mod.docx
+    # reference_docx: ${HOME}/Dropbox/Pandoc/pandoc_DATADIR/templates/uq_template_dlu.docx # DLU template
+    number_sections: false
+    toc: true
+tufte::tufte_handout:
+    keep_tex: true
+    includes:
+      in_header: preamble.tex
+revealjs::revealjs_presentation:
+    self_contained: true
+    # reveal_plugins: ["chalkboard"]
+    css: files/myreveal2.css
+    theme: white
+    transition: none
+    background_transition: none
+    slide_level: 2
+    center: true
+    fig_caption: false
+    fig_height: 4
+    fig_width: 7
+    # keep_md: yes
+    reveal_options:
+        slideNumber: true
+    includes:
+        after_body: files/kb.html
