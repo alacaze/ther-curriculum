@@ -138,6 +138,31 @@ Resources regarding `yaml` are easy to find: [example](https://www.cloudbees.com
 
 	Once you have updated the file, send a copy to me.
 
+## Developing questions
+
+Here is my quick ChatGPT go at generating [exam questions for PHRM2102](https://chatgpt.com/share/684655ea-4ccc-8005-88ca-5f636ab6a284).
+
+  - The therapeutics exam focuses on Tier 1 (with some Tier 2) conditions from ACCP taught in PHRM2102
+
+  - Assess the following global objectives
+    
+    1.  Be able to apply knowledge of the pathophysiology, prognosis, signs and symptoms and lived-experience of the condition
+    2.  Be able to apply evidence and best-practice guidance regarding pharmacotherapy for the condition to individual patients
+    3.  Be able to individualise pharmacotherapy for the condition to key patient groups
+
+  - These can be tailored and added to the specific conditions, for example something like the following are a reasonable starting point for "Chronic coronary diseases"
+    
+      - Evaluate pharmacotherapeutic management of secondary prevention following ACS
+      - Identify MOA, adverse effects and outcome evidence for statins, ACEI/ARB, betablockers, [more?]
+      - Evaluate cardiac risk
+
+I used this example for the questions generated, all need review and change, but I think they are good examples of the kind of questions we are looking for (especially the final two sets following the prompt for critical thinking skills).
+
+Key prompts:
+
+  - Specific learning objectives
+  - 5 option multiple choice questions with good distractors
+  - Aim the questions at year 2 pharmacy students and focus on critical thinking skills: analyse, evaluate, justify and explain.
 
 ## Bibliography
 
